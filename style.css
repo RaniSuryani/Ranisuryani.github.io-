@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url('img/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+#projects {
+  padding-top: 6rem;
+  background-image: url('img/background.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+section {
+  padding-top: 7rem;
+}
+td {
+  font-weight: bold;
+}
